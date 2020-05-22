@@ -1,2 +1,2 @@
-# InstaHack-github
+# instahack
 Instahacking tool
