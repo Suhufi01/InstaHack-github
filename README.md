@@ -1,2 +1,2 @@
-# suhufi-InstaHack-github
+# InstaHack-github
 Instahacking tool
